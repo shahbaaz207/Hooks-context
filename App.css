@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffff;
+  margin: 20px auto;
+  max-width: 700px;
+  width: 70%;
+}
+body{
+  background-color: #553055;
+}
+.navbar{
+  padding: 10px 20px;
+  text-align: center;
+  background: #6d3d6d;
+}
+.navbar h1 {
+  margin: 10px 0;
+}
+.title{
+  background: plum;
+  padding: 2px;
+  margin: 20px;
+  color: black;
+  border-radius: 30px;
+  box-shadow: 2px 2px 2px 5px white;
+  max-height: 700px;
+}
+li{
+    list-style: none;
+}
+form{
+  padding:20px
+}
+
+.input{
+  width:100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 6px 0;
+  background: #3c1f1c;
+  color: #fff;
+  border: 0;
+}
+input[type="submit"]{
+  margin: 10px auto;
+  background: #eee;
+  border: 0;
+  padding: 6px 20px;
+  display: block;
+
+}
